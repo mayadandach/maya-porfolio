@@ -10,7 +10,8 @@ font-family: 'Raleway', Helvetica, sans-serif;
 #0F2443
 <button href="mailto:dand0024@algonquinlive.com">Email Me</button>
 */
-
+body{
+   background-color:rgba(162, 240, 246, 0.4)}
 
 h1{
     font-family: 'Cardo', Garamond, serif;
